@@ -1,0 +1,105 @@
+p {
+  font-family: 'Abril Fatface';
+}
+
+.container {
+  margin-top: 0px;
+  /* background-color: #ccc; */
+  /* so we can see the white on grey BG */
+}
+
+.bottom {
+  /* background-color: #222; */
+  /*  temp change: ... much better now */
+  background-color: #222;  
+  /* background-color: black; */
+  color: white;
+}
+
+.top,
+.bottom {
+  padding-right: 80px;
+  padding-left: 80px;
+}
+
+.line1,
+.line3 {
+  text-transform: uppercase;
+  font-size: 25px;
+}
+
+.line2,
+.line6 {
+  font-size: 100px;
+}
+
+.line1 {
+  position: absolute;
+  top: 72px;
+}
+
+.line3 {
+  position: absolute;
+  top: 185px;
+  left: 190px;
+}
+
+.line4-b {
+  position: absolute;
+  top: 120px;
+  left: 80px;
+  color: blue;
+  font-size: 120px;
+}
+
+.line4A {
+  font-size: 100px;
+  position: absolute;
+  top: 161px;
+  left: 85px;
+  color: black;
+  overflow-y: hidden;
+  height: 74px;
+  z-index: 100;
+}
+
+.line4B {
+  font-size: 100px;
+  position: absolute;
+  top: 161px;
+  left: 85px;
+  color: white;
+  z-index: 50;
+}
+
+.line5 {
+  position: absolute;
+  top: 400px;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.line6 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.line7 {
+  position: absolute;
+  top: 430px;
+  left: 720px;
+  font-size: 23px;
+}
+
+.and1 {
+  position: absolute;
+  top: 246px;
+  left: 113px;
+  z-index: 10;
+}
+
+.and2 {
+  position: absolute;
+  top: 117px;
+  left: -5px;
+}

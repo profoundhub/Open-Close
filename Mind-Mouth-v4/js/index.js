@@ -1,0 +1,1 @@
+// This is part of a Larger Project. Details may be found here: https://codepen.io/write/black-white-open-close

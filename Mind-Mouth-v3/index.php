@@ -1,36 +1,21 @@
 <!DOCTYPE html>
-<html >
-  <head>
-    <meta charset="UTF-8">
-    <title>Mind + Mouth - v3 (with overlay)</title>
-    <link href='https://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
-    
-    
-    
-    
-        <link rel="stylesheet" href="css/style.css">
-
-    
-    
-    
-  </head>
-
-  <body>
 
     <!-- To save time, I'll just copy and paste my code here: -->
 <html >
   <head>
     <meta charset="UTF-8">
-    <title>Mind + Mouth - v3</title>
+    <title>Mind + Mouth - v3 (with overlay)</title>
+    <link href='https://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/style.css">
       </head>
-  <body>    
+  <body>
 
 <div class="container">
   <!-- -->
   <div class="overlay">
     <img src="http://i64.tinypic.com/qwwtvp.jpg" class="imageOverlay" />
-  </div> 
-  
+  </div>
+
 <!-- *** THE TOP SECTION *** -->
 
   <div class="top">
@@ -41,7 +26,7 @@
 
   <!-- *** THE AMPHERSAD*** -->
   <p class="line4A"></p> <!-- background 0 -->
-  <p class="line4B">&</p> <!-- background 2 --> <!-- ended up only using ONE (1) & (&amp;) ... but i like my new solution better! --> 
+  <p class="line4B">&</p> <!-- background 2 --> <!-- ended up only using ONE (1) & (&amp;) ... but i like my new solution better! -->
 
   <!-- *** THE BOTTOM SECTION*** -->
   <div class="bottomA"> <!-- background 1 -->
@@ -53,14 +38,14 @@
     <p class="line7">on matters that<br>you don't know<br>about.</p>
   </div>
 </div>
-    
+
   </body>
 </html>
-    
+
         <script src="js/index.js"></script>
 
-    
-    
-    
+
+
+
   </body>
 </html>

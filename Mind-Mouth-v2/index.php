@@ -6,6 +6,7 @@
     <link href='https://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/style.css">
   </head>
+  <?php include("../inc/head.php"); ?>
   <body>
 
   <!-- To save time, I'll just copy and paste my code here: -->

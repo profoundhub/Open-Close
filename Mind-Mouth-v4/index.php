@@ -1,41 +1,23 @@
-<!DOCTYPE html>
-<html >
-  <head>
-    <meta charset="UTF-8">
-    <title>Mind + Mouth - v4 (without overlay)</title>
-    <link href='https://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
-    
-    
-    
-    
-        <link rel="stylesheet" href="css/style.css">
-
-    
-    
-    
+<?php include("../inc/top.php"); ?>
+  <title>Mind + Mouth - v4 ( SAME as V3, but without overlay)</title>
+  <link href='https://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="css/style.css">
+    <?php include("../inc/head.php"); ?>
   </head>
-
   <body>
-
-    <!-- To save time, I'll just copy and paste my code here: -->
-<html >
-  <head>
-    <meta charset="UTF-8">
-    <title>Mind + Mouth - v4 ( SAME as V3, but without overlay)</title>
-      </head>
-
+    <?php include("../inc/body.php"); ?>
+  </head>
   <body>
-
     <!-- *** FONT *** -->
+    <div class="container">
 
-<div class="container">
-  <!-- 
-  <div class="overlay">
-    <img src="http://i64.tinypic.com/qwwtvp.jpg" class="imageOverlay" />
-  </div> -->
-  
+  <!--
+    <div class="overlay">
+      <img src="http://i64.tinypic.com/qwwtvp.jpg" class="imageOverlay" />
+    </div>
+  -->
+
 <!-- *** THE TOP SECTION *** -->
-
   <div class="top">
     <p class="line1">try to keep your</p>
     <p class="line2">Mind Open</p>
@@ -44,7 +26,7 @@
 
   <!-- *** THE AMPHERSAD*** -->
   <p class="line4A"></p> <!-- background 0 -->
-  <p class="line4B">&</p> <!-- background 2 --> <!-- ended up only using ONE (1) & (&amp;) ... but i like my new solution better! --> 
+  <p class="line4B">&</p> <!-- background 2 --> <!-- ended up only using ONE (1) & (&amp;) ... but i like my new solution better! -->
 
   <!-- *** THE BOTTOM SECTION*** -->
   <div class="bottomA"> <!-- background 1 -->
@@ -56,19 +38,8 @@
     <p class="line7">on matters that<br>you don't know<br>about.</p>
   </div>
 </div>
-    
-        <script src="js/index.js"></script>
 
-    
-    
-    
-  </body>
-</html>
-    
-        <script src="js/index.js"></script>
+  <script src="js/index.js"></script>
 
-    
-    
-    
   </body>
 </html>

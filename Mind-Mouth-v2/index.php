@@ -1,22 +1,17 @@
-<!DOCTYPE html>
-  <html>
-    <head>
-    <meta charset="UTF-8">
+<?php include("../inc/top.php"); ?>
     <title>Mind + Mouth - v2</title>
     <link href='https://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/style.css">
+    <?php include("../inc/head.php"); ?>
   </head>
-  <?php include("../inc/head.php"); ?>
   <body>
-
-  <!-- To save time, I'll just copy and paste my code here: -->
+    <?php include("../inc/body.php"); ?>
+    <!-- To save time, I'll just copy and paste my code here: -->
 
     <!-- *** FONT *** -->
-
     <div class="container">
 
       <!-- *** THE TOP SECTION *** -->
-
       <div class="top">
         <p class="line1">try to keep your</p>
         <p class="line2">Mind Open</p>
@@ -24,9 +19,9 @@
       </div>
 
       <!-- *** THE AMPHERSAD*** -->
-      <p class="line4A">&</p>
+        <p class="line4A">&</p>
       <!-- background 0 -->
-      <p class="line4B">&</p>
+        <p class="line4B">&</p>
       <!-- background 2 -->
 
       <!-- *** THE BOTTOM SECTION*** -->
@@ -44,6 +39,7 @@
 
     <br />
     <br />
+
     <hr />
 
     <p style="font-size: 18px;
@@ -52,14 +48,6 @@
   padding-left: 80px;">Original Image Below: </p>
 
     <img src="http://i64.tinypic.com/qwwtvp.jpg" />
-
-  </body>
-
-  </html>
-
   <script src="js/index.js"></script>
-
-
 </body>
-
 </html>
